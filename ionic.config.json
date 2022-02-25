@@ -1,0 +1,8 @@
+{
+  "name": "bazari",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "efa9132a"
+}
